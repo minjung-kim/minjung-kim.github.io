@@ -1,22 +1,22 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:         true
 
 # Permalinks
-permalink:        pretty
+permalink:        none
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Minjung Kim
+tagline:          Honors Portfolio
+url:              http://minjung-kim.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Minjung Kim
+  url:            
+  email:          
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/minjung-kim/minjung-kim.github.io
