@@ -20,3 +20,9 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/minjung-kim/minjung-kim.github.io
+
+pages_list:       
+  About: '/about'
+  Academics: '/academics'
+  Experiential Learning: '/experiential_learning'
+
