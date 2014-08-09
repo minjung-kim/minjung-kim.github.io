@@ -9,8 +9,8 @@
       <div class="masthead">
         <h3 class="masthead-title">
           <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
-          {% for page in site.pages_list %}
-            <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+          {% for cat in site.cat_list %}
+            <small><a href="{{ cat.url  }}">{{ cat.title }}</a></small>
           {% endfor %}
         </h3>
       </div>

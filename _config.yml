@@ -21,8 +21,29 @@ version:          1.0.0
 github:
   repo:           https://github.com/minjung-kim/minjung-kim.github.io
 
-pages_list:       
-  About: '/about'
-  Academics: '/academics'
-  Experiential Learning: '/experiential_learning'
-
+cat_list:
+  - title: "About"
+    url: "/about"
+    pages: 
+  - title: "Academics"
+    url: "/academics"
+    pages: 
+      - title: "Freshman"
+        url: "/freshman"
+      - title: "Sophomore"
+        url: "/sophomore"
+      - title: "Junior"
+        url: "/junior"
+      - title: "Senior"
+        url: "/senior"
+  - title: "Experiential Learning"
+    url: "/experiential_learning"
+    pages: 
+      - title: "Study Abroad"
+        url: "/study_abroad"
+      - title: "Research"
+        url: "/research"
+      - title: "Dream Project"
+        url: "/dream_project"
+      - title: "Roots"
+        url: "/roots"
