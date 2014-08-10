@@ -1,0 +1,9 @@
+---
+layout: page
+---
+
+{% for sub in page.sub_cats %}
+	<li>
+		<a href="{{ page.baseurl }}{{sub.url}}">{{ sub.title }}</a>
+	</li>
+{% endfor %}
