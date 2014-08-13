@@ -1,0 +1,17 @@
+---
+layout: subcategory
+category: freshman
+title: Freshman
+---
+
+###Honors 391: The Immortal Life of Henrietta Lacks###
+
+I have a soft spot for this class because it came with many exciting "firsts." This was my first Honors class, and this was it was also the first time I've been in a class that was entirely discussion based. It was the first time I was encouraged to look at race in a modern societal context in a structured classroom. Although Dr. Spigner had passages from the book picked out to bring up, our discussions were very dynamic. Without structure, we did get side tracked at times (we did briefly analyze the Mormon values found in Meyer's Twilight series) but we covered topics that we thought were relevant and important to us: racism in health, criminal justice system, science, and education, commodification of the body, patient rights, pharmaceutical patent laws, and ethics in research and medicine. For the final paper, we chose a topic of our choice and weaved in our own thoughts with the conversations that we had in class as well as articles to support our case. This was my first paper written in college. It's not perfect, and my awkward, dazed, and confused narrative comes out at times, but I am happy with the paper. because it was a great opportunity for me to learn and read about tissue and organ commodification to form my opinion on the subject. 
+
+###English 131: Under the Influence###
+
+I always saw myself as a reader and not a writer. So initially, I dreaded this class, but it ended up as my ray of sunshine as I fought through my first Seattle seasonal depression. It was taught by a graduate student studying creative writing. We read his hand picked articles throughout the quarter and most if not all of them were witty and casual social commentaries. The writers we read also had exceptionally distinctive voice and style which made me feel like I was just having a conversation with the writers over coffee. I got hooked onto reading these types of articles, and I found that writing is more approachable when it doesn't have to be so structured and dry. The major paper I wrote for this class about copyright laws named Under the Influence, and instead of concentrating on the structure of my arguments like I usually do, I concentrated on the flow. I studied patent laws the previous quarter when I wrote about tissue commodification. Coincidentally, I looked into copyrighting art for this class, and although I didn't compare and contrast physical versus intellectual property laws, it was interesting to see the parallels. 
+
+###Math 126: A Markov Chain Model of Cancer Metastasis###
+
+The accelerated honors calculus series was my first introduction to real, "pure" proof-based math, and I completely fell in love with it. For the last quarter of the series, we also covered differential equations and linear algebra, and got to pick a project to use mathematical concepts applied in real life. The possibilities were endless! Some groups made eigen-faces that are used for digital facial recognition or cryptography, and my group did a project to model cancer metastasis using a [Markov chain](http://setosa.io.blog/2014/7/26/markov-chains/index.html) model. We found a paper that modeled metastasis like this and replicated their results and wrote out the reasoning behind each step. Throughout the year, I convinced myself that pure math trumps computational math anyday, but it was exciting to model complex biological systems using pure math concepts learned in class. 
