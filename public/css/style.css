@@ -1,5 +1,6 @@
 body {
 	background-color: #230023;
+	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 }
 
 .pure-menu-horizontal li a {
@@ -14,3 +15,16 @@ body {
 	max-width: 55rem;
 }
 
+.splash {
+	font-size: 3em;
+	text-align: center;
+}
+
+.splash h1 {
+	color: white;
+}
+
+footer {
+	position: fixed;
+	bottom: 0;
+}
