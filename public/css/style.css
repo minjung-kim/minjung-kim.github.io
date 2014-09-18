@@ -2,12 +2,16 @@ body {
 	background-color: #230023;
 }
 
-.masthead a {
+.pure-menu-horizontal li a {
 	vertical-align: middle;
 	display: inline-block;
-	margin-left: 2em;
-	font-size: 1em;
+	margin-right: 2em;
+	font-size: 1.25em;
 	color: white;
 	font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+.container {
+	max-width: 55rem;
 }
 

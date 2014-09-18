@@ -6,15 +6,17 @@
   <body>
 
     <div class="container content">
-      <div class="masthead">
-        <h3 class="masthead-title">
-          <a href="{{ site.baseurl }}" title="Home">
-            <img src="{{ site.baseurl }}public/images/logo.png">
-          </a>
+      <div class="masthead pure-menu pure-menu-horizontal pure-menu-open">
+        <ul>
+          <li>
+            <a href="{{ site.baseurl }}" title="Home" class="pure-menu-heading">
+              <img src="{{ site.baseurl }}public/images/logo.png">
+            </a>
+          </li>
           {% for cat in site.cat_list %}
-            <a href="{{ cat.url  }}">{{ cat.title }}</a>
+            <li><a href="{{ cat.url  }}">{{ cat.title }}</a></li>
           {% endfor %}
-        </h3>
+        </ul>
       </div>
 
       {{ content }}

@@ -148,7 +148,7 @@ https://github.com/yui/pure/blob/master/LICENSE.md
 
 .pure-menu.pure-menu-open,
 .pure-menu.pure-menu-horizontal li .pure-menu-children {
-    background: #fff; /* Old browsers */
+    background: #230023; /* Old browsers */
     border: 1px solid #b7b7b7;
 }
 
@@ -170,7 +170,7 @@ https://github.com/yui/pure/blob/master/LICENSE.md
 
 .pure-menu a,
 .pure-menu .pure-menu-can-have-children > li:after {
-    color: #777;
+    color: #fff;
 }
 
 .pure-menu .pure-menu-can-have-children > li:hover:after {
@@ -185,7 +185,7 @@ https://github.com/yui/pure/blob/master/LICENSE.md
 
 .pure-menu li a:hover,
 .pure-menu li a:focus {
-    background: #eee;
+    background: #800080;
 }
 
 /* DISABLED STATES */
