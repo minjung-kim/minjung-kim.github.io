@@ -6,6 +6,6 @@ Built using:
 
 * [Jekyll](http://jekyllrb.com)
 * [Poole](http://getpoole.com/)
-* [Bootstrap](http://getbootstrap.com/)
+* [Pure](https://github.com/yahoo/pure/)
 
 by [Mallika Mathur](http://github.com/mkmathur)
